@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "low poly-rpg-robert",
+"productVersion": "0.1",
+"dataUrl": "ce8772275e3599ad05458df05d0e061d.unityweb",
+"wasmCodeUrl": "3531481b46da144df3fc8ca903af56f4.unityweb",
+"wasmFrameworkUrl": "a6146fc3380e37d2c47e283a33010659.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
